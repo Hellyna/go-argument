@@ -158,4 +158,4 @@ func Test_validate_arg_type_out_of_range(t *testing.T) {
 	}
 }
 
-// vim:ts=4 sw=4 noet
+// vim:ts=4 sw=4 noet:

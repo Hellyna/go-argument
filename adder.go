@@ -32,4 +32,4 @@ func (self *Action) AddFlag(
 	return nil
 }
 
-// vim:ts=4 sw=4 noet
+// vim:ts=4 sw=4 noet:

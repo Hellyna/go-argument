@@ -28,4 +28,4 @@ func (self *Flag) validate() error {
 	return nil
 }
 
-// vim:ts=4 sw=4 noet
+// vim:ts=4 sw=4 noet:

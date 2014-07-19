@@ -55,4 +55,4 @@ func TestAddFlag(t *testing.T) {
 	}
 }
 
-// vim:ts=4 sw=4 noet
+// vim:ts=4 sw=4 noet:

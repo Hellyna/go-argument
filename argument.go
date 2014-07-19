@@ -21,4 +21,4 @@ func (self *ArgumentSet) AddFlag(
 	)
 }
 
-// vim:ts=4 sw=4
+// vim:ts=4 sw=4 noet:
